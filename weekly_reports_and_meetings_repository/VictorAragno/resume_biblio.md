@@ -43,7 +43,7 @@ Cet evenement survient 18 jours apres de tres fortes concentration de chlorophyl
 
 Resume suppose : forte concentration phytoplancton -> forte biomasse de proie -> forte concentration de thons (en periode de reproduction)
 
-###etude des concentrations Mohamed Toihir (2009)
+###Etude des concentrations Mohamed Toihir (2009)
 
 Augmentation du nombre de "concentration" (capture > 500t pour une trihade 3j-1d) autour de 2004 
 La zone de forte peche de 2005 est une zone ou generalement sont observes de fortes concentrations de YFT. 
